@@ -1,0 +1,3 @@
+The Forest Vegetation Simulator (**FVS**) is a widely used forest growth model developed by the USDA Forest Service. This Google Code project makes the source code and related files available so that university, private, other federal, and state organizations who wish to participate in enhancing FVS can do so without the impediments caused by not having access to the Forest Service's internal repository.
+
+See the external links to the [Forest Service's FVS web site](http://www.fs.fed.us/fmsc/fvs/) where production builds, related software and documents are available. This project contains the production source code as well as developmental code.
